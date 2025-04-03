@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# How Competitive Shooters Made Me a Better Leader
-
 It’s easy to chalk up e-sports as just children’s pastime. But like any other sport, it takes a lot of practice, skills, and talent to be highly competitive—even more so within a team setting.
 
 After more than a decade of playing competitive shooters, I come to appreciate the mental gymnastics, teamwork and quick decision-making needed to reach the top of the leaderboards. These values have also helped shaped my career as a B2B marketing manager.
@@ -22,10 +20,10 @@ But let’s put that aside and focus on the sweaty tryhard gamer values we can e
 
 Competitive solo queue is a cesspool 💩. Imagine teaming up with 4 random strangers who:
 
-  * Have little team commitment.
-  * Don’t speak the same language.
-  * Are either children, toxic, drunk, or high.
-  * Puts personal ego above winning the game.
+- Have little team commitment.
+- Don’t speak the same language.
+- Are either children, toxic, drunk, or high.
+- Puts personal ego above winning the game.
 
 The worst part is: You’re stuck with them until the match is over, unless the team abandons the game and quits.
 
@@ -35,8 +33,8 @@ And yet, winning the game is a must; For your sanity, MRR points and career ambi
 
 If you’re unfortunate enough to have “bad” teammates, the trick is to work **around** the team, rather than **with** or **against** them. Instead of fighting both friend and foe, use each player’s selfish tendencies to further the team’s goals.
 
-  * _Do you have teammates who only rush sites and die?_ Don’t crowd the chokepoint and yell “Go! Go! Go!”. Instead, use them as bait and lurk around.
-  * _Do you have passive teammates who only hold angles?_ Don’t force a fight, sit with them and run out the clock. Instead, take map control and gather intel,
+- _Do you have teammates who only rush sites and die?_ Don’t crowd the chokepoint and yell “Go! Go! Go!”. Instead, use them as bait and lurk around.
+- _Do you have passive teammates who only hold angles?_ Don’t force a fight, sit with them and run out the clock. Instead, take map control and gather intel,
 
 Just because the team doesn’t do what we expect, it doesn’t mean that they’re bad at the game. Learn how to differentiate play styles from competencies!
 
@@ -48,9 +46,9 @@ The same goes for work settings. For a domain as diverse as marketing, you might
 
 Watch any VOD or YouTube gameplay, and pay attention to how professional players communicate within solo queue lobbies. Their call-outs generally fall into 3 categories:
 
-  * **Observations** —“2 at B,” “Bomb’s down,” “Footsteps A.”
-  * **Intention** —“Flashing market,” “Smoking tree”
-  * **Requesting help** —“Can you flash here? _**Ping**_,” “Peek with me.”
+- **Observations** —“2 at B,” “Bomb’s down,” “Footsteps A.”
+- **Intention** —“Flashing market,” “Smoking tree”
+- **Requesting help** —“Can you flash here? _**Ping**_,” “Peek with me.”
 
 Notice how c l e a n 👌 these call-outs are. No fluff, no useless intel and no nonsense. Anything more would increase confusion, cloud judgement, and take away precious seconds that will cost the entire match.
 
@@ -96,7 +94,7 @@ The same maps, same weapons, same strategies, same unlucky lottery of teammates�
 
 ### The People I’ve Come Across Who Love Their Day Jobs Have Only One Thing in Common
 
- **They’re damn good at what they do.**
+**They’re damn good at what they do.**
 
 Work fulfilment mainly comes from deep-seated confidence in one’s own abilities. Our ability to do good work is the source of pride and jealousy which fuels the competitive spirit. It’s the boost in motivation when you face against someone better than you, and you go “yeah, I can totally win against that guy”.
 
@@ -132,7 +130,7 @@ Us small enterprise bronze players can’t compete with international diamond pl
 
 We only have ourselves to compete with; Not the market nor our competitors.
 
-* * *
+---
 
 ## 🧠 Closing Thoughts
 
@@ -150,7 +148,7 @@ Jotham.
 
 Recommended channels to follow:
 
-  * [SovereignGuides](https://www.youtube.com/c/sovereignguides)
-  * [Woohoojin](https://www.youtube.com/@Woohoojin)
-  * [Shroud](https://www.youtube.com/@shroud)
-  * [Peak](https://www.youtube.com/@GosuPeak)
+- [SovereignGuides](https://www.youtube.com/c/sovereignguides)
+- [Woohoojin](https://www.youtube.com/@Woohoojin)
+- [Shroud](https://www.youtube.com/@shroud)
+- [Peak](https://www.youtube.com/@GosuPeak)

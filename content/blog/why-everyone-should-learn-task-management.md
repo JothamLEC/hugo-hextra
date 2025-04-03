@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Why Everyone Should Learn Task Management
-
 Thanks to the availability of AI tools like ChatGPT, completing tasks is easier than ever before.
 
 Work that once took hours can now be completed in mere minutes, which is a dream for any knowledge worker—whether you’re a student, professional, or even a homemaker.
@@ -40,9 +38,9 @@ If left unchecked, we might find ourselves extremely busy and yet feel unaccompl
 
 Conversely, **properly managing our tasks will:**
 
-  * Give us an overview of our work over a longer time frame—helping us understand how our work today will impact “future us” tomorrow.
-  * Set clear boundaries between work tasks, personal tasks, or any other form of commitment that we have.
-  * Better visibility over the deadlines of certain projects and the effort it requires to achieve them.
+- Give us an overview of our work over a longer time frame—helping us understand how our work today will impact “future us” tomorrow.
+- Set clear boundaries between work tasks, personal tasks, or any other form of commitment that we have.
+- Better visibility over the deadlines of certain projects and the effort it requires to achieve them.
 
 ## Prioritisation Tips for Task Management
 
@@ -74,11 +72,11 @@ The only logical alternative to having a task management system is to memorize t
 
 Not only will we have to factor in the name of the task, but we also need to understand the:
 
-  * scope of the work
-  * the process involved in completing the work,
-  * how the work needs to be delivered
-  * the tools you need
-  * So on and so forth.
+- scope of the work
+- the process involved in completing the work,
+- how the work needs to be delivered
+- the tools you need
+- So on and so forth.
 
 These are questions that need to be answered subconsciously, whether beforehand or while we’re hands-on doing the actual work. However, keeping this information at the back of your mind while working on _other_ tasks takes up a lot of unnecessary mental energy and stress-inducing.
 
@@ -86,9 +84,9 @@ Thinking about different tasks all the time will constantly haunt you like a gha
 
 Without a task management system, there is an element of fear:
 
-  * Fear of forgetting to complete a task
-  * Fear of not completing the task up to specification
-  * Fear of the repercussions of not doing the task properly.
+- Fear of forgetting to complete a task
+- Fear of not completing the task up to specification
+- Fear of the repercussions of not doing the task properly.
 
 The mental space it occupies prevents you from truly focusing on the important work in front of you.
 
@@ -150,8 +148,8 @@ Many people dislike managing their tasks, believing that it is a chore or a burd
 
 You can view task management as:
 
-  * Sharpening an axe to help you cut down faster.
-  * A quest marker in video games telling you where you need to go so that you won’t get lost in the open world.
-  * A diary - an extension of who you are by documenting what you do, which makes you… you.
+- Sharpening an axe to help you cut down faster.
+- A quest marker in video games telling you where you need to go so that you won’t get lost in the open world.
+- A diary - an extension of who you are by documenting what you do, which makes you… you.
 
 If you haven’t set up a task management system yet, I highly recommend giving it a go - perhaps for a week or so. You might be surprised at how something so trivial can have a profound impact on your day-to-day life.

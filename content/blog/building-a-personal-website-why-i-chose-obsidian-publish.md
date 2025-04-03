@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Building a Personal Website Why I Chose Obsidian Publish
-
 ## Why I Need a Personal Website
 
 The job market is highly competitive for both full-time work and freelancers. In the past, a solid portfolio and resume/CV were sufficient for getting one’s foot in the door, but today, companies are looking for more than just academic qualifications.

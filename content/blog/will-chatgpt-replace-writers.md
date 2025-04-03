@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Will ChatGPT Replace Writers
-
 A few weeks back, an old friend asked me this over some pints. “Do you think ChatGPT will replace us one day?” Both of us are from the creative industry, initially assumed to be technologically resilient. But like truck drivers with self-driving vehicles, it is now our heads at risk of the chopping block.
 
 By now, most readers are well aware of the disruptive capabilities of ChatGPT. OpenAI and their counterparts have been making inroads within the generative A.I. space, mainly for text, images and code. With rapid development within this space, is it a cause for concern for the average knowledge worker?

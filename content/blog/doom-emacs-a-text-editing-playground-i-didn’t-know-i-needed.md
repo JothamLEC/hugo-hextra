@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Doom Emacs A Text Editing Playground I didn’t Know I Needed
-
 After migrating my notes to Notion, the names Emacs and Org-mode appeared constantly in threads, podcasts, and forums.
 
 Though I knew the destination, embarking on expeditions into different productivity systems is an inevitable part of the journey. A straightforward note-taking system expanded into task management, calendars, and time-tracking solutions.

@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Omnifocus is not a Todo App, it’s a Can Do App
-
 I made the switch from Things (my main app for 3 years) to OF4 after learning about [David Sparks](https://www.youtube.com/watch?v=vUUaQF3_Pyo) and [CGP Grey’s](https://www.relay.fm/cortex/142) approach to task management.
 
 My issue with most to-do apps is that they are **time-based**, whether it’s assigning a date or using time-blocking/calendar hybrids. This method is poor at **task recovery**.

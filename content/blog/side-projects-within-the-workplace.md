@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Side Projects within the Workplace
-
 Isn’t it ironic?
 
 Many companies preach the values of creativity and innovation within the workplace, but don’t provide the breathing space to do so (Thankfully, mine is a rare few who does).
@@ -24,11 +22,11 @@ The catch? As long as existing commitments are fulfilled (meetings & deliverable
 
 ## Why Bother?
 
-  * **It is colour that breaks the monochrome shades of the daily grind.** Even the most ambitious of us can find corporate work soul-crushing after long hours. So why not look forward to Freedom Fridays the same way we look forward to recess and gym class in school?
-  * **It is a judgement-free space for people to grow.** The key is being judgement-free. Only you can define what personal growth is, what to focus on, and how to achieve it. Personal growth isn’t something that managers nor other people can dictate for you.
-  * **It is room to make mistakes.** Most times, the workplace demands perfection from us. But mistakes are part of the job; they are not problems, but opportunities to learn. If they’re not normalised, then we would rather choose to do less work instead. Less work means less errors, and zero work is perfection.
+- **It is colour that breaks the monochrome shades of the daily grind.** Even the most ambitious of us can find corporate work soul-crushing after long hours. So why not look forward to Freedom Fridays the same way we look forward to recess and gym class in school?
+- **It is a judgement-free space for people to grow.** The key is being judgement-free. Only you can define what personal growth is, what to focus on, and how to achieve it. Personal growth isn’t something that managers nor other people can dictate for you.
+- **It is room to make mistakes.** Most times, the workplace demands perfection from us. But mistakes are part of the job; they are not problems, but opportunities to learn. If they’re not normalised, then we would rather choose to do less work instead. Less work means less errors, and zero work is perfection.
 
-* * *
+---
 
 To my surprise, the pushback for Freedom Friday didn’t come from the upper management, but from the team itself. A common concern is **guilt**. The stigma towards misusing office hours runs so deep, that even the intern without prior working experience felt it.
 

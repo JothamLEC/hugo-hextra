@@ -6,8 +6,6 @@ date-created: 2024-11-04
 date-modified: 2025-03-17
 ---
 
-# Why Am I Migrating to Micro.blog
-
 This is my 7th blog migration now—away from WordPress, Obsidian Publish, [Super.so](https://super.so/), Ghost, Substack & Hugo.
 
 Admittedly, it’s a form of procrastination. Spending more time messing around with websites means less time producing content.
@@ -16,17 +14,18 @@ But I don’t think it’s time wasted. I’ve learned a lot about web hosting a
 
 ## Motive
 
-  1. **I love sharing, but I dislike social media**
-  * [Micro.blog](https://micro.blog/) is part of the [IndieWeb](https://indieweb.org/) & [Fediverse](https://en.wikipedia.org/wiki/Fediverse) movement, where the key idea is to have content ownership in the hands of users.
-  * By committing to social media platforms, I’ll lock myself into walled gardens where content is difficult to migrate and control.
-  * Moreover, it creates bad incentives—such as paying for exposure, preying on people’s insecurities, and developing addictive time-sink features.
+1. **I love sharing, but I dislike social media**
 
-  1. **Pure blogging isn’t right for me either.**
+- [Micro.blog](https://micro.blog/) is part of the [IndieWeb](https://indieweb.org/) & [Fediverse](https://en.wikipedia.org/wiki/Fediverse) movement, where the key idea is to have content ownership in the hands of users.
+- By committing to social media platforms, I’ll lock myself into walled gardens where content is difficult to migrate and control.
+- Moreover, it creates bad incentives—such as paying for exposure, preying on people’s insecurities, and developing addictive time-sink features.
 
-  * The 6 blogging platforms mentioned above have one big challenge— _Reach_.
-  * Despite hosting content on my own domain, I find myself still sharing them on platforms like LinkedIn & Facebook to get some semblance of visitor traction.
-  * Solutions like RSS feeds & email subscriptions aim to help with that, but the “marketing” aspect of publishing can’t be ignored.
-  * Hence, I find myself maintaining several platforms instead of one, while facing the same aforementioned walled garden problems.
+1. **Pure blogging isn’t right for me either.**
+
+- The 6 blogging platforms mentioned above have one big challenge— _Reach_.
+- Despite hosting content on my own domain, I find myself still sharing them on platforms like LinkedIn & Facebook to get some semblance of visitor traction.
+- Solutions like RSS feeds & email subscriptions aim to help with that, but the “marketing” aspect of publishing can’t be ignored.
+- Hence, I find myself maintaining several platforms instead of one, while facing the same aforementioned walled garden problems.
 
 ## How I Came across Micro.Blog
 
@@ -42,7 +41,7 @@ Not to mention, I dislike how fragile everything was. My site was held up by a t
 
 Knowing how each of these services works with each other is amazing, but they represent points of failure that need to be tackled in the future. I foresee myself spending hours troubleshooting issues rather than learning new things.
 
-* * *
+---
 
 [Micro.blog](https://micro.blog/) was brought up early on during my research into the IndieWeb. I’ve held off making a $5/month subscription because hosting my Hugo was free.
 
