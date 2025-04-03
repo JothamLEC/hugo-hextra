@@ -1,0 +1,40 @@
+---
+title: Blog
+date-created: 2025-03-17
+date-modified: 2025-03-17
+---
+
+--
+date-created: 2025-03-17
+date-modified: 2025-03-17
+title: Blog
+---
+
+# Blog
+
+<!-- QueryToSerialize: TABLE date AS "Date" FROM "Website/Blog Articles" SORT date DESC -->
+<!-- SerializedQuery: TABLE date AS "Date" FROM "Website/Blog Articles" SORT date DESC -->
+
+| File                                                                                                                                                                                                  | Date       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Recovering Redacted Content It’s Scary How Easy It Is]]                                                             | 2024-08-13 |
+| [[An Entrepreneur’s Guide to Effective Time-Tracking]]                                                                   | 2024-08-08 |
+| [[I’ve Time Tracked for a Week, what I’ve Learnt Made Me Uncomfortable]]                               | 2024-06-25 |
+| [[Doom Emacs A Text Editing Playground I didn’t Know I Needed]]                                                 | 2024-03-22 |
+| [[Guide to Publishing to HugoJekyll Remotely via iOS]]                                                                   | 2024-02-25 |
+| [[Changing Jobs for the 8th Time]]                                                                                                           | 2024-02-15 |
+| [[Omnifocus is not a Todo App, it’s a Can Do App]]                                                                           | 2024-02-11 |
+| [[Why Am I Migrating to Micro.blog]]                                                                                                       | 2024-02-04 |
+| [[Why I Chose Hugo for My Personal Website]]                                                                                       | 2024-01-22 |
+| [[18 Months Being a Marketing Manager]]                                                                                                 | 2024-01-21 |
+| [[How Competitive Shooters Made Me a Better Leader]]                                                                       | 2024-01-20 |
+| [[Will ChatGPT Replace Writers]]                                                                                                               | 2024-01-14 |
+| [[Plight of the Malaysian Young Adults]]                                                                                               | 2024-01-01 |
+| [[I’ve Experimented with Personal Productivity for 18 Months. here’s what I’ve Learnt]] | 2023-11-01 |
+| [[Why Everyone Should Learn Task Management]]                                                                                     | 2023-10-30 |
+| [[Guide to Being a New Manager Alignment]]                                                                                           | 2023-10-15 |
+| [[Building a Personal Website Why I Chose Obsidian Publish]]                                                       | 2023-09-18 |
+| [[Side Projects within the Workplace]]                                                                                                   | 2023-06-23 |
+
+<!-- SerializedQuery END -->
+
