@@ -40,6 +40,8 @@ menu:
         icon: mail
 
 params:
+  page:
+    width: normal
   navbar:
     displayTitle: true
     displayLogo: true

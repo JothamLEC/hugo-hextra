@@ -1,0 +1,63 @@
+{{- $cols := .Get "cols" | default 3 -}}
+{{- $currentPage := .Page -}}
+<div class="mt-4 mb-4">
+  {{- $pages := $currentPage.Pages -}}
+
+  {{/* Get unique tags from all pages */}}
+  {{- $tags := slice -}}
+  {{- range $pages -}}
+  {{- range .Params.tags -}}
+  {{- $tags = $tags | append . -}}
+  {{- end -}}
+  {{- end -}}
+  {{- $tags = uniq $tags | sort "desc" -}}
+
+  {{/* Loop through each tag */}}
+  {{- range $tag := $tags -}}
+  {{/* Get pages with current tag */}}
+  {{- $tagPages := where $pages "Params.tags" "intersect" (slice $tag) -}}
+
+  {{/* Only show section if there are pages with this tag */}}
+  {{- if $tagPages -}}
+  <h3 class="mt-8 mb-4">{{ title $tag }}</h3>
+  <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols:{{ $cols }}">
+    {{- range $tagPages -}}
+    {{- $icon := .Params.icon | default "document" -}}
+    {{- $title := .Title -}}
+    {{- $link := .RelPermalink -}}
+    {{- $subtitle := .Description -}}
+
+    {{- partial "shortcodes/card" (dict
+    "page" $currentPage
+    "link" $link
+    "title" $title
+    "icon" $icon
+    "subtitle" $subtitle
+    ) -}}
+    {{- end -}}
+  </div>
+  {{- end -}}
+  {{- end -}}
+
+  {{/* Show untagged pages in a separate section */}}
+  {{- $untaggedPages := where $pages "Params.tags" "eq" nil -}}
+  {{- if $untaggedPages -}}
+  <h3 class="mt-8 mb-4">Other</h3>
+  <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols:{{ $cols }}">
+    {{- range $untaggedPages -}}
+    {{- $icon := .Params.icon | default "document" -}}
+    {{- $title := .Title -}}
+    {{- $link := .RelPermalink -}}
+    {{- $subtitle := .Description -}}
+
+    {{- partial "shortcodes/card" (dict
+    "page" $currentPage
+    "link" $link
+    "title" $title
+    "icon" $icon
+    "subtitle" $subtitle
+    ) -}}
+    {{- end -}}
+  </div>
+  {{- end -}}
+</div>

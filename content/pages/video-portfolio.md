@@ -4,24 +4,32 @@ date-created: 2025-03-19
 date-modified: 2025-03-19
 ---
 
- 
+{{% details title="2024 — Innov8tif Corporate Video" closed="true" %}}
 
-	Do wait for a few seconds for the video to load.
+{{< youtube pQiflsMtF5A >}}
 
-> [!NOTE]- 2024 — Innov8tif AntiDeepfake/Injection Video
-> ![[Website/media/20241211--Anti-Deepfake-Anti-Injection.mp4]]
+{{% /details %}}
 
-> [!NOTE]- 2024 — Innov8tif Corporate Video
-> ![Innov8tif Corporate Video](https://youtu.be/pQiflsMtF5A)
+{{% details title="2022 — Petaling Jaya Tourism Board (Video Series" closed="true" %}}
 
-> [!NOTE]- 2022 — Petaling Jaya Tourism Board (Video Series)
-> ![PJ Kita](https://www.youtube.com/watch?v=bEXxjAiaDuU&pp=0gcJCU8JAYcqIYzv)
+{{< youtube bEXxjAiaDuU >}}
 
-> [!NOTE]- 2018 — Documentary College Assignment
-> ![Mode De Vie](https://www.youtube.com/watch?v=saIKxpN2i3M)
+{{% /details %}}
 
-> [!NOTE]- 2017 — Showreel
-> ![Showreel](https://www.youtube.com/watch?v=SIdXadH0x0Q)
+{{% details title="2018 — Documentary College Assignment" closed="true" %}}
 
-> [!NOTE]- 2016 — 8TV Music Video
-> ![8TV](https://www.youtube.com/watch?v=SovoEFOaRsY)
+{{< youtube saIKxpN2i3M >}}
+
+{{% /details %}}
+
+{{% details title="2017 — Showreel" closed="true" %}}
+
+{{< youtube SIdXadH0x0Q >}}
+
+{{% /details %}}
+
+{{% details title="2016 — 8TV Music Video" closed="true" %}}
+
+{{< youtube SovoEFOaRsY >}}
+
+{{% /details %}}

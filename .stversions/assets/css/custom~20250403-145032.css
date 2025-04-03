@@ -1,0 +1,14 @@
+/* Fix for consistent icon size */
+.hextra-card .hextra-card-icon svg {
+  width: 1lh;
+  height: 1lh;
+  flex-shrink: 0;
+}
+
+/* Fix for text overflow with ellipsis */
+.hextra-card .hextra-card-subtitle {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
