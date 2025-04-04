@@ -24,6 +24,9 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
+    - name: Wiki
+      pageRef: /Wiki
+      weight: 2
     - name: Search
       weight: 4
       params:
