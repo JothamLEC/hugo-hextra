@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Home
-      pageRef: /pages
+      pageRef: /
       weight: 1
     - name: Blog
       pageRef: /blog
@@ -48,7 +48,7 @@ params:
     logo:
       path: logo_cut.svg
       dark: logo_cut.svg
-      link: /pages
+      link: /
       width: 40
       height: 40
 

@@ -1,63 +1,56 @@
-{{- $cols := .Get "cols" | default 3 -}}
-{{- $currentPage := .Page -}}
+{{- define "article-table" -}}
+<table class="w-full table-fixed">
+  <thead class="bg-gray-700">
+    <tr>
+      <th
+        class="w-[80%] py-3 px-4 text-left font-semibold"
+      >
+        Title
+      </th>
+      <th
+        class="w-[20%] py-3 px-4 text-left font-semibold"
+      >
+        Date
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range . -}}
+    <tr class="border-b border-gray-100">
+      <td class="py-2 px-4">
+        <a
+          href="{{ .RelPermalink }}"
+          class="hover:text-blue-600"
+          >{{ .Title }}</a
+        >
+      </td>
+      <td class="py-2 px-4 text-nowrap">
+        {{ .Date.Format "2006-01-02" }}
+      </td>
+    </tr>
+    {{- end -}}
+  </tbody>
+</table>
+{{- end -}}
+
 <div class="mt-8 mb-8">
-  {{- $pages := $currentPage.Pages -}}
-
-  {{/* Get unique tags from all pages */}}
-  {{- $tags := slice -}}
-  {{- range $pages -}}
-  {{- range .Params.tags -}}
-  {{- $tags = $tags | append . -}}
-  {{- end -}}
-  {{- end -}}
-  {{- $tags = uniq $tags | sort -}}
-
-  {{/* Loop through each tag */}}
-  {{- range $tag := $tags -}}
-  {{/* Get pages with current tag */}}
-  {{- $tagPages := where $pages "Params.tags" "intersect" (slice $tag) -}}
-
-  {{/* Only show section if there are pages with this tag */}}
-  {{- if $tagPages -}}
-  <h3 class="mt-12 mb-12">{{ title $tag }}</h3>
-  <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols:{{ $cols }}">
-    {{- range $tagPages -}}
-    {{- $icon := .Params.icon | default "document" -}}
-    {{- $title := .Title -}}
-    {{- $link := .RelPermalink -}}
-    {{- $subtitle := .Description -}}
-
-    {{- partial "shortcodes/card" (dict
-    "page" $currentPage
-    "link" $link
-    "title" $title
-    "icon" $icon
-    "subtitle" $subtitle
-    ) -}}
-    {{- end -}}
-  </div>
-  {{- end -}}
-  {{- end -}}
-
-  {{/* Show untagged pages in a separate section */}}
-  {{- $untaggedPages := where $pages "Params.tags" "eq" nil -}}
-  {{- if $untaggedPages -}}
-  <!-- <h3 class="mt-8 mb-4">Other</h3> -->
-  <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols:{{ $cols }}">
-    {{- range $untaggedPages -}}
-    {{- $icon := .Params.icon | default "document" -}}
-    {{- $title := .Title -}}
-    {{- $link := .RelPermalink -}}
-    {{- $subtitle := .Description -}}
-
-    {{- partial "shortcodes/card" (dict
-    "page" $currentPage
-    "link" $link
-    "title" $title
-    "icon" $icon
-    "subtitle" $subtitle
-    ) -}}
-    {{- end -}}
-  </div>
+  {{- $pages := .Page.Pages -}} {{/* Get and sort
+  unique tags */}} {{- $tags := slice -}} {{- range
+  $pages -}} {{- $tags = union $tags .Params.tags -}}
+  {{- end -}} {{- $tags = sort $tags -}} {{/* Display
+  tagged articles */}} {{- range $tag := $tags -}} {{-
+  with where $pages "Params.tags" "intersect" (slice
+  $tag) -}}
+  <h3 class="mt-12 mb-4 text-xl font-bold">
+    {{ title $tag }}
+  </h3>
+  {{- template "article-table" (.ByDate.Reverse) -}}
+  {{- end -}} {{- end -}} {{/* Display untagged
+  articles */}} {{- with where $pages "Params.tags"
+  "eq" nil -}}
+  <h3 class="mt-12 mb-4 text-xl font-bold">
+    Untagged
+  </h3>
+  {{- template "article-table" (.ByDate.Reverse) -}}
   {{- end -}}
 </div>

@@ -7,4 +7,4 @@ sidebar:
   # hide: true
 ---
 
-{{< index_list cols="1" group=true >}}
+{{< index_list >}}

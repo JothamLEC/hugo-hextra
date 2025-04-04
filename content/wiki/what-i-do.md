@@ -6,8 +6,10 @@ date-modified: 2025-03-24
 
 > [!WARNING] Note
 >
-> - Page is under construction. I’ll graudally break apart these section to individual pages.
-> - For easy navigation, feel free to use the outliner on the right ➡️
+> - Page is under construction. I’ll graudally break
+>   apart these section to individual pages.
+> - For easy navigation, feel free to use the outliner
+>   on the right ➡️
 
 ## 1 — Tech & Productivity
 
@@ -41,16 +43,20 @@ Here are a list of platforms and my thoughts on them
 
 **Brief overview**
 
-Enrolled into Cohort 13 of HealthyGamer coaching program — started the certification process mid November 2023 and receiving paying clients around March 2024 onwards.
+Enrolled into Cohort 13 of HealthyGamer coaching
+program — started the certification process mid
+November 2023 and receiving paying clients around March
+2024 onwards.
 
-> [!INFO]+ What’s the difference between coaching, counselling and therapy?
+> [!INFO]+ What’s the difference between coaching,
+> counselling and therapy?
 
 > [!INFO]+ How did you join the program?
 
 > [!INFO]+ What sort of problems do you help solve?
 
-> [!INFO]+ What exactly do you do during client sessions?
-> During client session
+> [!INFO]+ What exactly do you do during client
+> sessions? During client session
 
 ### 3.2 — Manager
 
